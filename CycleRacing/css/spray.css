@@ -1,0 +1,1515 @@
+.spray1,.spray2{
+	
+}
+ .spray1 div {
+  width: 100px;
+  height: 85px;
+  -moz-border-radius: 100px 0px 0px 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 0px 100px 100px 0px ;
+  background: #fff;
+  box-shadow: 0px 0px 14px #fff;
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  left: 7%;
+  top: 80%;
+  position: absolute;
+}
+.spray1 div ul {
+transform:rotate(180deg);
+-ms-transform:rotate(180deg); 	/* IE 9 */
+-moz-transform:rotate(180deg); 	/* Firefox */
+-webkit-transform:rotate(180deg); /* Safari 和 Chrome */
+-o-transform:rotate(180deg); 	/* Opera */
+  margin: 0;
+  padding: 0;
+}
+.spray1 div ul li {
+  list-style: none;
+  display: block;
+}
+.spray1 div:nth-child(1) {
+  background-color: #5048A0;
+  height: 5px;
+  width: 10px;
+  box-shadow: 2px 0px 10px #5048A0, -5px 0px 10px #5b2096;
+}
+.spray1 div:nth-child(1) li:nth-child(1), .spray1 div:nth-child(1) .spray1 div:nth-child(3) .floating-1, .spray1 div:nth-child(3) .spray1 div:nth-child(1) .floating-1 {
+  width: 10.3px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 1s ease-in-out infinite;
+  -webkit-animation: glowbg 1s ease-in-out infinite;
+  animation: glowbg 1s ease-in-out infinite;
+  -moz-animation-delay: 0.2s;
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+  -moz-animation-duration: 0.2s;
+  -webkit-animation-duration: 0.2s;
+  animation-duration: 0.2s;
+}
+.spray1 div:nth-child(1) li:nth-child(2), .spray1 div:nth-child(1) .spray1 div:nth-child(3) .floating-2, .spray1 div:nth-child(3) .spray1 div:nth-child(1) .floating-2 {
+  width: 13.1px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 2s ease-in-out infinite;
+  -webkit-animation: glowbg 2s ease-in-out infinite;
+  animation: glowbg 2s ease-in-out infinite;
+  -moz-animation-delay: 0.4s;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  -moz-animation-duration: 0.5s;
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+.spray1 div:nth-child(1) li:nth-child(3) {
+  width: 11.1px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 2s ease-in-out infinite;
+  -webkit-animation: glowbg 2s ease-in-out infinite;
+  animation: glowbg 2s ease-in-out infinite;
+  -moz-animation-delay: 0.6s;
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+  -moz-animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+}
+.spray1 div:nth-child(1) li:nth-child(4) {
+  width: 8.8px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 2s ease-in-out infinite;
+  -webkit-animation: glowbg 2s ease-in-out infinite;
+  animation: glowbg 2s ease-in-out infinite;
+  -moz-animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  -moz-animation-duration: 0.5s;
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+.spray1 div:nth-child(2) {
+  background-color: #85EDE8;
+  opacity: 0.6;
+  height: 4px;
+  width: 9px;
+  box-shadow: 0px 0px 15px #85EDE8;
+}
+.spray1 div:nth-child(2) li:nth-child(1), .spray1 div:nth-child(2) .spray1 div:nth-child(3) .floating-1, .spray1 div:nth-child(3) .spray1 div:nth-child(2) .floating-1 {
+  width: 11.7px;
+  background: linear-gradient(to right, #85ede8 50%, rgba(0, 0, 0, 0));
+  height: 1.05px;
+  margin-left: 3.45px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
+  -moz-animation: glowbg 3s ease-in-out infinite;
+  -webkit-animation: glowbg 3s ease-in-out infinite;
+  animation: glowbg 3s ease-in-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(2) li:nth-child(2), .spray1 div:nth-child(2) .spray1 div:nth-child(3) .floating-2, .spray1 div:nth-child(3) .spray1 div:nth-child(2) .floating-2 {
+  width: 11px;
+  background: linear-gradient(to right, #85ede8 50%, rgba(0, 0, 0, 0));
+  height: 1.4px;
+  margin-left: 3.45px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
+  margin-top: 1.6px;
+  -moz-animation: glowbg 2.5s ease-in-out infinite;
+  -webkit-animation: glowbg 2.5s ease-in-out infinite;
+  animation: glowbg 2.5s ease-in-out infinite;
+  -moz-animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+.spray1 div:nth-child(3) {
+  background-color: #85EDE8;
+  height: 3.1px;
+  width: 8px;
+  margin-left: 0.64px;
+  box-shadow: 0px 0px 15px #85EDE8;
+}
+.spray1 div:nth-child(3) li:nth-child(1), .spray1 div:nth-child(3) .floating-1 {
+  width: 4.4px;
+  height: 0.3px;
+  background: #85EDE8;
+  margin-left: 3.45px;
+  border-radius: 300px;
+  position: relative;
+  left: 0px;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -moz-animation: anim1 1s ease infinite;
+  -webkit-animation: anim1 1s ease infinite;
+  animation: anim1 1s ease infinite;
+}
+.spray1 div:nth-child(3) li:nth-child(2), .spray1 div:nth-child(3) .floating-2 {
+  width: 7.2;
+  height: 0.3px;
+  background: #85EDE8;
+  margin-left: 3.45px;
+  border-radius: 300px;
+  position: relative;
+  margin-top: 2.5px;
+  left: 0px;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -moz-animation: anim1 1s ease infinite;
+  -webkit-animation: anim1 1s ease infinite;
+  animation: anim1 1s ease infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(3) .floating-1 {
+  position: absolute;
+  top: 0;
+  box-shadow: 0px 0px 5px #85EDE8;
+}
+.spray1 div:nth-child(3) .floating-2 {
+  position: absolute;
+  bottom: 0;
+}
+.spray1 div:nth-child(3) li:nth-child(3).floating-1 {
+  width: 3.2px;
+  left: 5.2px;
+  -moz-animation: f1 2s ease-out infinite;
+  -webkit-animation: f1 2s ease-out infinite;
+  animation: f1 2s ease-out infinite;
+}
+.spray1 div:nth-child(3) li:nth-child(4).floating-1 {
+  width: 1.3px;
+  left: 9.2px;
+  -moz-animation: f11 1.8s ease-out infinite;
+  -webkit-animation: f11 1.8s ease-out infinite;
+  animation: f11 1.8s ease-out infinite;
+  -moz-animation-delay: 0s;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+}
+.spray1 div:nth-child(3) li:nth-child(5).floating-2 {
+  width: 2.4px;
+  left: 0px;
+  -moz-animation: f11 1s ease-out infinite;
+  -webkit-animation: f11 1s ease-out infinite;
+  animation: f11 1s ease-out infinite;
+  -moz-animation-delay: 0.3s;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+.spray1 div:nth-child(3) li:nth-child(6).floating-2 {
+  width: 0.8px;
+  left: 0px;
+  -moz-animation: f11 1.5s ease-out infinite;
+  -webkit-animation: f11 1.5s ease-out infinite;
+  animation: f11 1.5s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(4) {
+  width:6.4px;
+  margin-left: 0.8px;
+  height: 2.2px;
+}
+.spray1 div:nth-child(4) li {
+  position: relative;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.spray1 div:nth-child(4) li:nth-child(1), .spray1 div:nth-child(4) .spray1 div:nth-child(3) .floating-1, .spray1 div:nth-child(3) .spray1 div:nth-child(4) .floating-1 {
+  width: 7.2px;
+  height: 0.33px;
+  background: #fff;
+  left: 4px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim2 1.5s ease-out infinite;
+  -webkit-animation: anim2 1.5s ease-out infinite;
+  animation: anim2 1.5s ease-out infinite;
+}
+.spray1 div:nth-child(4) li:nth-child(2), .spray1 div:nth-child(4) .spray1 div:nth-child(3) .floating-2, .spray1 div:nth-child(3) .spray1 div:nth-child(4) .floating-2 {
+  background: radial-gradient(circle at 100% 50%, rgba(204, 0, 0, 0) 4px, #ffffff 5px);
+  width: 5.6px;
+  height: 0.3px;
+  margin-left: 4px;
+  -moz-animation: anim3 1.6s ease-out infinite;
+  -webkit-animation: anim3 1.6s ease-out infinite;
+  animation: anim3 1.6s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(4) li:nth-child(3) {
+  width: 8px;
+  height: 0.33px;
+  background: #fff;
+  left: 3.4px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim2 1.2s ease-out infinite;
+  -webkit-animation: anim2 1.2s ease-out infinite;
+  animation: anim2 1.2s ease-out infinite;
+  -moz-animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.spray1 div:nth-child(4) li:nth-child(4) {
+  background: radial-gradient(circle at 100% 50%, rgba(204, 0, 0, 0) 4px, #ffffff 5px);
+  width: 5px;
+  height: 0.3px;
+  margin-left: 5.6px;
+  -moz-animation: anim3 2s ease-out infinite;
+  -webkit-animation: anim3 2s ease-out infinite;
+  animation: anim3 2s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(4) li:nth-child(5) {
+  width: 6.8px;
+  height: 0.33px;
+  background: #fff;
+  left: 4.8px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim4 2s ease-out infinite;
+  -webkit-animation: anim4 2s ease-out infinite;
+  animation: anim4 2s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(4) li:nth-child(6) {
+  background: radial-gradient(circle at 100% 50%, rgba(204, 0, 0, 0) 5px, #ffffff 6px);
+  width: 5px;
+  height: 0.33px;
+  margin-left: 6px;
+  -moz-animation: anim3 1s ease-out infinite;
+  -webkit-animation: anim3 1s ease-out infinite;
+  animation: anim3 1s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(4) li:nth-child(7) {
+  width: 8px;
+  height: 0.33px;
+  background: #fff;
+  left: 4.4px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim2 1.3s ease-out infinite;
+  -webkit-animation: anim2 1.3s ease-out infinite;
+  animation: anim2 1.3s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray1 div:nth-child(4) .floating {
+  position: absolute;
+  background: #fff;
+  border-radius: 100px;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  box-shadow: 0px 0px 10px #85EDE8;
+  z-index: -2;
+  opacity: 0;
+}
+.spray1 div:nth-child(4) li:nth-child(8).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 0;
+  left: 4px;
+  -moz-animation: float1 3s ease infinite;
+  -webkit-animation: float1 3s ease infinite;
+  animation: float1 3s ease infinite;
+  -moz-animation-delay: 0.4s;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+.spray1 div:nth-child(4) li:nth-child(9).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 0.6px;
+  -moz-animation: float2 3s ease infinite;
+  -webkit-animation: float2 3s ease infinite;
+  animation: float2 3s ease infinite;
+  -moz-animation-delay: 2.5s;
+  -webkit-animation-delay: 2.5s;
+  animation-delay: 2.5s;
+}
+.spray1 div:nth-child(4) li:nth-child(10).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 1.1px;
+  left: 4px;
+  -moz-animation: float3 3s ease infinite;
+  -webkit-animation: float3 3s ease infinite;
+  animation: float3 3s ease infinite;
+  -moz-animation-delay: 1.5s;
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+.spray1 div:nth-child(4) li:nth-child(11).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 1.8px;
+  left: 4px;
+  -moz-animation: float4 3s ease infinite;
+  -webkit-animation: float4 3s ease infinite;
+  animation: float4 3s ease infinite;
+  -moz-animation-delay: 1.5s;
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+ .spray2 div {
+  width: 100px;
+  height: 85px;
+  -moz-border-radius: 100px 0px 0px 100px;
+  -webkit-border-radius: 100px;
+  border-radius: 0px 100px 100px 0px ;
+  background: #fff;
+  box-shadow: 0px 0px 14px #fff;
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  left: 4%;
+  top: 63%;
+  position: absolute;
+}
+.spray2 div ul {
+transform:rotate(180deg);
+-ms-transform:rotate(180deg); 	/* IE 9 */
+-moz-transform:rotate(180deg); 	/* Firefox */
+-webkit-transform:rotate(180deg); /* Safari 和 Chrome */
+-o-transform:rotate(180deg); 	/* Opera */
+  margin: 0;
+  padding: 0;
+}
+.spray2 div ul li {
+  list-style: none;
+  display: block;
+}
+.spray2 div:nth-child(1) {
+  background-color: #5048A0;
+  height: 5px;
+  width: 10px;
+  box-shadow: 2px 0px 10px #5048A0, -5px 0px 10px #5b2096;
+}
+.spray2 div:nth-child(1) li:nth-child(1), .spray2 div:nth-child(1) .spray2 div:nth-child(3) .floating-1, .spray2 div:nth-child(3) .spray2 div:nth-child(1) .floating-1 {
+  width: 10.3px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 1s ease-in-out infinite;
+  -webkit-animation: glowbg 1s ease-in-out infinite;
+  animation: glowbg 1s ease-in-out infinite;
+  -moz-animation-delay: 0.2s;
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+  -moz-animation-duration: 0.2s;
+  -webkit-animation-duration: 0.2s;
+  animation-duration: 0.2s;
+}
+.spray2 div:nth-child(1) li:nth-child(2), .spray2 div:nth-child(1) .spray2 div:nth-child(3) .floating-2, .spray2 div:nth-child(3) .spray2 div:nth-child(1) .floating-2 {
+  width: 13.1px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 2s ease-in-out infinite;
+  -webkit-animation: glowbg 2s ease-in-out infinite;
+  animation: glowbg 2s ease-in-out infinite;
+  -moz-animation-delay: 0.4s;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  -moz-animation-duration: 0.5s;
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+.spray2 div:nth-child(1) li:nth-child(3) {
+  width: 11.1px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 2s ease-in-out infinite;
+  -webkit-animation: glowbg 2s ease-in-out infinite;
+  animation: glowbg 2s ease-in-out infinite;
+  -moz-animation-delay: 0.6s;
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+  -moz-animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+}
+.spray2 div:nth-child(1) li:nth-child(4) {
+  width: 8.8px;
+  height: 1.25px;
+  background: #5048A0;
+  background: linear-gradient(to right, #5048a0 60%, rgba(0, 0, 0, 0));
+  margin-left: 4.8px;
+  border-radius: 80px;
+  -moz-animation: glowbg 2s ease-in-out infinite;
+  -webkit-animation: glowbg 2s ease-in-out infinite;
+  animation: glowbg 2s ease-in-out infinite;
+  -moz-animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  -moz-animation-duration: 0.5s;
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+.spray2 div:nth-child(2) {
+  background-color: #85EDE8;
+  opacity: 0.6;
+  height: 4px;
+  width: 9px;
+  box-shadow: 0px 0px 15px #85EDE8;
+}
+.spray2 div:nth-child(2) li:nth-child(1), .spray2 div:nth-child(2) .spray2 div:nth-child(3) .floating-1, .spray2 div:nth-child(3) .spray2 div:nth-child(2) .floating-1 {
+  width: 11.7px;
+  background: linear-gradient(to right, #85ede8 50%, rgba(0, 0, 0, 0));
+  height: 1.05px;
+  margin-left: 3.45px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
+  -moz-animation: glowbg 3s ease-in-out infinite;
+  -webkit-animation: glowbg 3s ease-in-out infinite;
+  animation: glowbg 3s ease-in-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(2) li:nth-child(2), .spray2 div:nth-child(2) .spray2 div:nth-child(3) .floating-2, .spray2 div:nth-child(3) .spray2 div:nth-child(2) .floating-2 {
+  width: 11px;
+  background: linear-gradient(to right, #85ede8 50%, rgba(0, 0, 0, 0));
+  height: 1.4px;
+  margin-left: 3.45px;
+  -moz-border-radius: 200px;
+  -webkit-border-radius: 200px;
+  border-radius: 200px;
+  margin-top: 1.6px;
+  -moz-animation: glowbg 2.5s ease-in-out infinite;
+  -webkit-animation: glowbg 2.5s ease-in-out infinite;
+  animation: glowbg 2.5s ease-in-out infinite;
+  -moz-animation-delay: 0.8s;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+.spray2 div:nth-child(3) {
+  background-color: #85EDE8;
+  height: 3.1px;
+  width: 8px;
+  margin-left: 0.64px;
+  box-shadow: 0px 0px 15px #85EDE8;
+}
+.spray2 div:nth-child(3) li:nth-child(1), .spray2 div:nth-child(3) .floating-1 {
+  width: 4.4px;
+  height: 0.3px;
+  background: #85EDE8;
+  margin-left: 3.45px;
+  border-radius: 300px;
+  position: relative;
+  left: 0px;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -moz-animation: anim1 1s ease infinite;
+  -webkit-animation: anim1 1s ease infinite;
+  animation: anim1 1s ease infinite;
+}
+.spray2 div:nth-child(3) li:nth-child(2), .spray2 div:nth-child(3) .floating-2 {
+  width: 7.2;
+  height: 0.3px;
+  background: #85EDE8;
+  margin-left: 3.45px;
+  border-radius: 300px;
+  position: relative;
+  margin-top: 2.5px;
+  left: 0px;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -moz-animation: anim1 1s ease infinite;
+  -webkit-animation: anim1 1s ease infinite;
+  animation: anim1 1s ease infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(3) .floating-1 {
+  position: absolute;
+  top: 0;
+  box-shadow: 0px 0px 5px #85EDE8;
+}
+.spray2 div:nth-child(3) .floating-2 {
+  position: absolute;
+  bottom: 0;
+}
+.spray2 div:nth-child(3) li:nth-child(3).floating-1 {
+  width: 3.2px;
+  left: 5.2px;
+  -moz-animation: f1 2s ease-out infinite;
+  -webkit-animation: f1 2s ease-out infinite;
+  animation: f1 2s ease-out infinite;
+}
+.spray2 div:nth-child(3) li:nth-child(4).floating-1 {
+  width: 1.3px;
+  left: 9.2px;
+  -moz-animation: f11 1.8s ease-out infinite;
+  -webkit-animation: f11 1.8s ease-out infinite;
+  animation: f11 1.8s ease-out infinite;
+  -moz-animation-delay: 0s;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+}
+.spray2 div:nth-child(3) li:nth-child(5).floating-2 {
+  width: 2.4px;
+  left: 0px;
+  -moz-animation: f11 1s ease-out infinite;
+  -webkit-animation: f11 1s ease-out infinite;
+  animation: f11 1s ease-out infinite;
+  -moz-animation-delay: 0.3s;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+.spray2 div:nth-child(3) li:nth-child(6).floating-2 {
+  width: 0.8px;
+  left: 0px;
+  -moz-animation: f11 1.5s ease-out infinite;
+  -webkit-animation: f11 1.5s ease-out infinite;
+  animation: f11 1.5s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(4) {
+  width:6.4px;
+  margin-left: 0.8px;
+  height: 2.2px;
+}
+.spray2 div:nth-child(4) li {
+  position: relative;
+  -moz-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+.spray2 div:nth-child(4) li:nth-child(1), .spray2 div:nth-child(4) .spray2 div:nth-child(3) .floating-1, .spray2 div:nth-child(3) .spray2 div:nth-child(4) .floating-1 {
+  width: 7.2px;
+  height: 0.33px;
+  background: #fff;
+  left: 4px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim2 1.5s ease-out infinite;
+  -webkit-animation: anim2 1.5s ease-out infinite;
+  animation: anim2 1.5s ease-out infinite;
+}
+.spray2 div:nth-child(4) li:nth-child(2), .spray2 div:nth-child(4) .spray2 div:nth-child(3) .floating-2, .spray2 div:nth-child(3) .spray2 div:nth-child(4) .floating-2 {
+  background: radial-gradient(circle at 100% 50%, rgba(204, 0, 0, 0) 4px, #ffffff 5px);
+  width: 5.6px;
+  height: 0.3px;
+  margin-left: 4px;
+  -moz-animation: anim3 1.6s ease-out infinite;
+  -webkit-animation: anim3 1.6s ease-out infinite;
+  animation: anim3 1.6s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(4) li:nth-child(3) {
+  width: 8px;
+  height: 0.33px;
+  background: #fff;
+  left: 3.4px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim2 1.2s ease-out infinite;
+  -webkit-animation: anim2 1.2s ease-out infinite;
+  animation: anim2 1.2s ease-out infinite;
+  -moz-animation-delay: 1s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.spray2 div:nth-child(4) li:nth-child(4) {
+  background: radial-gradient(circle at 100% 50%, rgba(204, 0, 0, 0) 4px, #ffffff 5px);
+  width: 5px;
+  height: 0.3px;
+  margin-left: 5.6px;
+  -moz-animation: anim3 2s ease-out infinite;
+  -webkit-animation: anim3 2s ease-out infinite;
+  animation: anim3 2s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(4) li:nth-child(5) {
+  width: 6.8px;
+  height: 0.33px;
+  background: #fff;
+  left: 4.8px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim4 2s ease-out infinite;
+  -webkit-animation: anim4 2s ease-out infinite;
+  animation: anim4 2s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(4) li:nth-child(6) {
+  background: radial-gradient(circle at 100% 50%, rgba(204, 0, 0, 0) 5px, #ffffff 6px);
+  width: 5px;
+  height: 0.33px;
+  margin-left: 6px;
+  -moz-animation: anim3 1s ease-out infinite;
+  -webkit-animation: anim3 1s ease-out infinite;
+  animation: anim3 1s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(4) li:nth-child(7) {
+  width: 8px;
+  height: 0.33px;
+  background: #fff;
+  left: 4.4px;
+  border-radius: 200px;
+  box-shadow: 0px 0px 10px #fff;
+  -moz-animation: anim2 1.3s ease-out infinite;
+  -webkit-animation: anim2 1.3s ease-out infinite;
+  animation: anim2 1.3s ease-out infinite;
+  -moz-animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+}
+.spray2 div:nth-child(4) .floating {
+  position: absolute;
+  background: #fff;
+  border-radius: 100px;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  box-shadow: 0px 0px 10px #85EDE8;
+  z-index: -2;
+  opacity: 0;
+}
+.spray2 div:nth-child(4) li:nth-child(8).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 0;
+  left: 4px;
+  -moz-animation: float1 3s ease infinite;
+  -webkit-animation: float1 3s ease infinite;
+  animation: float1 3s ease infinite;
+  -moz-animation-delay: 0.4s;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+.spray2 div:nth-child(4) li:nth-child(9).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 0.6px;
+  -moz-animation: float2 3s ease infinite;
+  -webkit-animation: float2 3s ease infinite;
+  animation: float2 3s ease infinite;
+  -moz-animation-delay: 2.5s;
+  -webkit-animation-delay: 2.5s;
+  animation-delay: 2.5s;
+}
+.spray2 div:nth-child(4) li:nth-child(10).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 1.1px;
+  left: 4px;
+  -moz-animation: float3 3s ease infinite;
+  -webkit-animation: float3 3s ease infinite;
+  animation: float3 3s ease infinite;
+  -moz-animation-delay: 1.5s;
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+.spray2 div:nth-child(4) li:nth-child(11).floating {
+  width: 1px;
+  height: 0.33px;
+  top: 1.8px;
+  left: 4px;
+  -moz-animation: float4 3s ease infinite;
+  -webkit-animation: float4 3s ease infinite;
+  animation: float4 3s ease infinite;
+  -moz-animation-delay: 1.5s;
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 1.2px;
+    width: 5.6px;
+  }
+  50% {
+    left: 12px;
+    opacity: .5;
+    width: 4px;
+  }
+  60% {
+    left: 12px;
+    opacity: 0;
+    width: 0.32px;
+  }
+  100% {
+    left: 1.2px;
+    opacity: 0;
+    width: 0px;
+  }
+}
+@-moz-keyframes f1 {
+  0% {
+    left: 1.2px;
+    width: 5.6px;
+  }
+  50% {
+    left: 12px;
+    opacity: .5;
+    width: 4px;
+  }
+  60% {
+    left: 12px;
+    opacity: 0;
+    width: 0.32px;
+  }
+  100% {
+    left: 1.2px;
+    opacity: 0;
+    width: 0px;
+  }
+}
+@-ms-keyframes f1 {
+  0% {
+    left: 1.2px;
+    width: 5.6px;
+  }
+  50% {
+    left: 12px;
+    opacity: .5;
+    width: 4px;
+  }
+  60% {
+    left: 12px;
+    opacity: 0;
+    width: 0.32px;
+  }
+  100% {
+    left: 1.2px;
+    opacity: 0;
+    width: 0px;
+  }
+}
+@keyframes f1 {
+  0% {
+    left: 1.2px;
+    width: 5.6px;
+  }
+  50% {
+    left: 12px;
+    opacity: .5;
+    width: 4px;
+  }
+  60% {
+    left: 12px;
+    opacity: 0;
+    width: 0.32px;
+  }
+  100% {
+    left: 1.2px;
+    opacity: 0;
+    width: 0px;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 5.2px;
+  }
+  50% {
+    left: 14.8px;
+    opacity: .5;
+  }
+  60% {
+    opacity: 0;
+    left: 14.8px;
+  }
+  100% {
+    left: 5.2px;
+    opacity: 0;
+  }
+}
+@-moz-keyframes f11 {
+  0% {
+    left: 5.2px;
+  }
+  50% {
+    left: 14.8px;
+    opacity: .5;
+  }
+  60% {
+    opacity: 0;
+    left: 14.8px;
+  }
+  100% {
+    left: 5.2px;
+    opacity: 0;
+  }
+}
+@-ms-keyframes f11 {
+  0% {
+    left: 5.2px;
+  }
+  50% {
+    left: 14.8px;
+    opacity: .5;
+  }
+  60% {
+    opacity: 0;
+    left: 14.8px;
+  }
+  100% {
+    left: 5.2px;
+    opacity: 0;
+  }
+}
+@keyframes f11 {
+ 0% {
+    left: 5.2px;
+  }
+  50% {
+    left: 14.8px;
+    opacity: .5;
+  }
+  60% {
+    opacity: 0;
+    left: 14.8px;
+  }
+  100% {
+    left: 5.2px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 2.4px;
+  }
+  100% {
+    left: 0xpx;
+  }
+}
+@-moz-keyframes anim1 {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 2.4px;
+  }
+  100% {
+    left: 0xpx;
+  }
+}
+@-ms-keyframes anim1 {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 2.4px;
+  }
+  100% {
+    left: 0xpx;
+  }
+}
+@keyframes anim1 {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 2.4px;
+  }
+  100% {
+    left: 0xpx;
+  }
+}
+@-webkit-keyframes $animationName {
+   0% {
+    left: 3.6px;
+  }
+  50% {
+    left: 5.2px;
+  }
+  100% {
+    left: 3.6px;
+  }
+}
+@-moz-keyframes anim2 {
+  0% {
+    left: 3.6px;
+  }
+  50% {
+    left: 5.2px;
+  }
+  100% {
+    left: 3.6px;
+  }
+}
+@-ms-keyframes anim2 {
+  0% {
+    left: 3.6px;
+  }
+  50% {
+    left: 5.2px;
+  }
+  100% {
+    left: 3.6px;
+  }
+}
+@keyframes anim2 {
+  0% {
+    left: 3.6px;
+  }
+  50% {
+    left: 5.2px;
+  }
+  100% {
+    left: 3.6px;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 0.4px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+@-moz-keyframes anim3 {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 0.4px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+@-ms-keyframes anim3 {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 0.4px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+@keyframes anim3 {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: 0.4px;
+  }
+  100% {
+    left: 0px;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 4.8px;
+  }
+  50% {
+    left: 6.4px;
+  }
+  100% {
+    left: 4.8px;
+  }
+}
+@-moz-keyframes anim4 {
+  0% {
+    left: 4.8px;
+  }
+  50% {
+    left: 6.4px;
+  }
+  100% {
+    left: 4.8px;
+  }
+}
+@-ms-keyframes anim4 {
+  0% {
+    left: 4.8px;
+  }
+  50% {
+    left: 6.4px;
+  }
+  100% {
+    left: 4.8px;
+  }
+}
+@keyframes anim4 {
+  0% {
+    left: 4.8px;
+  }
+  50% {
+    left: 6.4px;
+  }
+  100% {
+    left: 4.8px;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-moz-keyframes float1 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-ms-keyframes float1 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@keyframes float1 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes $animationName {
+   0% {
+    left: 4.8px;
+    opacity: 0;
+  }
+  50% {
+    left: 14px;
+    opacity: 1;
+  }
+  70% {
+    left: 14px;
+    opacity: 0;
+  }
+  100% {
+    left: 4.8px;
+    opacity: 0;
+  }
+}
+@-moz-keyframes float2 {
+  0% {
+    left: 4.8px;
+    opacity: 0;
+  }
+  50% {
+    left: 14px;
+    opacity: 1;
+  }
+  70% {
+    left: 14px;
+    opacity: 0;
+  }
+  100% {
+    left: 4.8px;
+    opacity: 0;
+  }
+}
+@-ms-keyframes float2 {
+  0% {
+    left: 4.8px;
+    opacity: 0;
+  }
+  50% {
+    left: 14px;
+    opacity: 1;
+  }
+  70% {
+    left: 14px;
+    opacity: 0;
+  }
+  100% {
+    left: 4.8px;
+    opacity: 0;
+  }
+}
+@keyframes float2 {
+  0% {
+    left: 4.8px;
+    opacity: 0;
+  }
+  50% {
+    left: 14px;
+    opacity: 1;
+  }
+  70% {
+    left: 14px;
+    opacity: 0;
+  }
+  100% {
+    left: 4.8px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-moz-keyframes float3 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-ms-keyframes float3 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@keyframes float3 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 12.8px;
+    opacity: 1;
+  }
+  70% {
+    left: 12.8px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 14.4px;
+    opacity: 1;
+  }
+  70% {
+    left: 14.4px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-moz-keyframes float4 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 14.4px;
+    opacity: 1;
+  }
+  70% {
+    left: 14.4px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-ms-keyframes float4 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 14.4px;
+    opacity: 1;
+  }
+  70% {
+    left: 14.4px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@keyframes float4 {
+  0% {
+    left: 4px;
+    opacity: 0;
+  }
+  50% {
+    left: 14.4px;
+    opacity: 1;
+  }
+  70% {
+    left: 14.4px;
+    opacity: 0;
+  }
+  100% {
+    left: 4px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    width: 8.3px;
+  }
+  25% {
+    width: 13.8px;
+  }
+  100% {
+    width:  8.3px;
+  }
+}
+@-moz-keyframes glowbg {
+  0% {
+    width: 8.3px;
+  }
+  25% {
+    width: 13.8px;
+  }
+  100% {
+    width:  8.3px;
+  }
+}
+@-ms-keyframes glowbg {
+  0% {
+    width: 8.3px;
+  }
+  25% {
+    width: 13.8px;
+  }
+  100% {
+    width:  8.3px;
+  }
+}
+@keyframes glowbg {
+  0% {
+    width: 8.3px;
+  }
+  25% {
+    width: 13.8px;
+  }
+  100% {
+    width:  8.3px;
+  }
+}
+@-webkit-keyframes $animationName {
+  0% {
+    left: 0;
+    opacity: 1;
+  }
+  50% {
+    left: 100%;
+    opacity: 1;
+  }
+  70% {
+    left: 100%;
+    opacity: 0;
+  }
+  100% {
+    left: 0;
+    opacity: 0;
+  }
+}
+@-moz-keyframes stars-moving {
+  0% {
+    left: 0;
+    opacity: 1;
+  }
+  50% {
+    left: 100%;
+    opacity: 1;
+  }
+  70% {
+    left: 100%;
+    opacity: 0;
+  }
+  100% {
+    left: 0;
+    opacity: 0;
+  }
+}
+@-ms-keyframes stars-moving {
+  0% {
+    left: 0;
+    opacity: 1;
+  }
+  50% {
+    left: 100%;
+    opacity: 1;
+  }
+  70% {
+    left: 100%;
+    opacity: 0;
+  }
+  100% {
+    left: 0;
+    opacity: 0;
+  }
+}
+@keyframes stars-moving {
+  0% {
+    left: 0;
+    opacity: 1;
+  }
+  50% {
+    left: 100%;
+    opacity: 1;
+  }
+  70% {
+    left: 100%;
+    opacity: 0;
+  }
+  100% {
+    left: 0;
+    opacity: 0;
+  }
+}

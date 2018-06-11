@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="Cache-Control" content="no-cache,no-store,must-revalidate">
+		<meta http-equiv="pragma" content="no-cache">
+		<meta http-equiv="expires" content="0">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<meta name="format-detection" content="telphone=no,email=no">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+		<title>Canvas Motion</title>
+		<script src='js/motion.js'></script>
+	</head>
+	<body onload='draw();'>
+		<div>
+			<canvas id="motion" width="1000" height="600"></canvas>
+		</div>
+		<div style="position: absolute; top: 10px; left: 100px;">
+			<form name='test'>
+				<label for='time'>Time:</label>
+				<input type="input" id='time' name='time' value="0" />
+				<br>
+				<input onclick="javascript:initCars(); startLoop();" type='button' id='loop' value='Start' />
+			</form>
+		</div>
+	</body>
+
+</html>
